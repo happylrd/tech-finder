@@ -19,3 +19,4 @@ Name | Repo
 Name | Repo
 --- | ---
 [Glide](https://github.com/bumptech/glide) | https://github.com/bumptech/glide
+[Picasso](http://square.github.io/picasso/) | https://github.com/square/picasso
