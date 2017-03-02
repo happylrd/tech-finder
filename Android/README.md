@@ -8,6 +8,7 @@ Just for finding superb Android libraries rapidly.
 ### Index
 * [Network](#network)
 * [Image Loader](#image-loader)
+* [ORM](#orm)
 
 ### Network
 Name | Repo
@@ -20,3 +21,8 @@ Name | Repo
 --- | ---
 [Glide](https://github.com/bumptech/glide) | https://github.com/bumptech/glide
 [Picasso](http://square.github.io/picasso/) | https://github.com/square/picasso
+
+### ORM
+Name | Repo
+--- | ---
+[LitePal](https://github.com/LitePalFramework/LitePal) | https://github.com/LitePalFramework/LitePal
