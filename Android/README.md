@@ -13,6 +13,7 @@ Just for finding superb Android libraries rapidly.
 ### Network
 Name | Repo
 --- | ---
+[Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit
 [OkHttp](http://square.github.io/okhttp/) | https://github.com/square/okhttp
 [RxVolley](http://rxvolley.mydoc.io/) | https://github.com/kymjs/RxVolley
 
